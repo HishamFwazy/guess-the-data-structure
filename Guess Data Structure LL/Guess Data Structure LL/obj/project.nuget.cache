@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JzSIDtcNn4kobB6twfAL+e4SaCYEqgNE/KyDloILLba3pCCdtJFC5Vpg59l13pDksCqy4SPi0hZarnO676b9gA==",
+  "success": true,
+  "projectFilePath": "D:\\2NA\\Guess Data Structure LL\\Guess Data Structure LL\\Guess Data Structure LL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hisha\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\hisha\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\hisha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\hisha\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
